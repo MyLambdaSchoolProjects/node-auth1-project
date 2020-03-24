@@ -1,0 +1,39 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    background-color: crimson;
+    width: 20%;
+    margin: 0 auto;
+    padding: 1rem;
+    margin-top: 5%;
+}
+
+.login .inputs{
+    font-size: 1.4rem;
+    margin-top: 1rem;
+}
+
+.login #form{
+    color: whitesmoke;
+    font-size: 1.4rem;
+}
+
+.register{
+    display: flex;
+    flex-direction: column;
+    background-color: crimson;
+    width: 20%;
+    margin: 0 auto;
+    padding: 1rem;
+    margin-top: 5%;
+}
+
+.register .inputs{
+    font-size: 1.4rem;
+    margin-top: 1rem;
+}
+
+.register #form{
+    color: whitesmoke;
+    font-size: 1.4rem;
+}
